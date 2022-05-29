@@ -1,7 +1,8 @@
  ______________________________________________________________________________
 |typetutor: TYPING TUTOR                                                       |
 |Conceived 5/29/2022                                                           |
-|                                                                              ||______________________________________________________________________________|
+|                                                                              |
+|______________________________________________________________________________|
 |Idea:                                                     |
 |A TUI program to practice and time typing. The sentences  |
 |to type come from collection of text files. The user can  |
