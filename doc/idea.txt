@@ -1,0 +1,17 @@
+ ______________________________________________________________________________
+|typetutor: TYPING TUTOR                                                       |
+|Conceived 5/29/2022                                                           |
+|                                                                              ||______________________________________________________________________________|
+|Idea:                                                     |
+|A TUI program to practice and time typing. The sentences  |
+|to type come from collection of text files. The user can  |
+|select one through the TUI or get one at random. The      |
+|contents of the text file are displayed in the upper box, |
+|and you type in the lower box.                            |
+|Mistakes are highlighted. The number of mistakes are      |
+|counted as disjoint sequences of backspaces and deletes.  |
+|The software can keep records of performance for different|
+|users.                                                    |
+|                                                          |
+|__________________________________________________________|
+
